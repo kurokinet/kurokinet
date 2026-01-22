@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I am an beginner programmer, and cybersecurity specialist;)
+## Beginner coder, and cybersecurity specialist
 
 <p align="left">
 <!-- Programming Languages -->
