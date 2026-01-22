@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## Beginner coder, and cybersecurity specialist
 <h3> 🏆 ~ Working on D-Chat <h3>
+<h3> 🚀 ~ I am an privacy concerned student based in Europe <h3>
 <p align="left">
 <!-- Programming Languages -->
 <b>Programming Languages</b><br>
